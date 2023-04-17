@@ -3,7 +3,7 @@ import {BrowserRouter,Routes,Route} from "react-router-dom"
 import Home from "./Components/HomePage"
 import CreateUser from "./Components/CreateUsers"
 import Users from "./Components/Users"
-import Content from "./Components/Calculator"
+import Content from "./Calculator"
 const App = () => {
   return (
     <div>
